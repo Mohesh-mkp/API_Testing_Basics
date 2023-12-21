@@ -1,4 +1,4 @@
-- # Basic Requirements before jumping to API
+# Basic Requirements before jumping to API
 
 * Postman
 * NodeJS
